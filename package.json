@@ -4,8 +4,7 @@
   "description": "Secure backend for Ekstacy Figma plugin grammar checking",
   "main": "api/grammar-check.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "echo 'Build complete - serverless functions ready'"
+    "dev": "vercel dev"
   },
   "dependencies": {},
   "engines": {
