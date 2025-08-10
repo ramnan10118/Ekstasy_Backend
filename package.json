@@ -1,0 +1,14 @@
+{
+  "name": "ekstacy-backend",
+  "version": "1.0.0",
+  "description": "Secure backend for Ekstacy Figma plugin grammar checking",
+  "main": "api/grammar-check.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.x"
+  }
+}
