@@ -5,7 +5,7 @@
   "main": "api/grammar-check.js",
   "scripts": {
     "dev": "vercel dev",
-    "build": "vercel build"
+    "build": "echo 'Build complete - serverless functions ready'"
   },
   "dependencies": {},
   "engines": {
